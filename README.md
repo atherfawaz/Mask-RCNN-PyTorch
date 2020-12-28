@@ -1,2 +1,4 @@
 # Image classification and segmentation using Mask RCNN on a custom dataset
-Colab-friendly image classification and segmentation using Mask RCNN with the Resnet18/50 backend in PyTorch.
+Colab-friendly project written in Pytorch.
+Image classification using Resnet18.
+Object detection and segmentation using Mask RCNN with Resnet50 backbone.
